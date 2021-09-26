@@ -11,6 +11,7 @@ import {
 
 import Header from './components/Header';
 import Section from './components/Section';
+import ParcelsContainer from './components/ParcelsContainer';
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 
@@ -36,6 +37,7 @@ const App: () => Node = () => {
             Hey <Text style={styles.highlight}>Clement</Text> here are your
             parcels:
           </Section>
+          <ParcelsContainer />
         </View>
       </ScrollView>
     </SafeAreaView>
