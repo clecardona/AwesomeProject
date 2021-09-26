@@ -1,0 +1,25 @@
+{
+  "subtitle": "Your Package Tracker",
+
+  "hello": "Hello",
+  "here-are-your": "Here are your",
+
+  "status": "Status",
+  "eta": "Estimated Arrival",
+  "location": "Pick up Location",
+  "parcel": "Parcel",
+  "parcels": "Parcels",
+
+  "nofound": "No parcel found for",
+  "found": "Parcels available for",
+
+  "more-details": "More details",
+  "sender": "Sender",
+  "notes": "Notes",
+  "no-notes-provided": "No notes provided",
+
+  "delivered": "Delivered",
+  "ready-for-pickup": "Ready for pickup",
+  "on-the-way": "On the way",
+  "order-info-received": "Info received"
+}

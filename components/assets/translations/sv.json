@@ -1,0 +1,24 @@
+{
+  "subtitle": "Spåra Dina Paket",
+
+  "hello": "Hej",
+  "here-are-your": "Här finns dina",
+
+  "status": "Status",
+  "eta": "Ankomstdatum",
+  "location": "Plats",
+  "parcel": "Paket",
+  "parcels": "Paket",
+
+  "nofound": "Ingen träff ",
+  "found": "Paket tillgängligt för",
+  "more-details": "Mer detaljer",
+  "sender": "Avsändare",
+  "notes": "Instruktioner",
+  "no-notes-provided": "Ingen instruktion finns",
+
+  "delivered": "Levererat",
+  "ready-for-pickup": "Redo",
+  "on-the-way": "På väg",
+  "order-info-received": "Info mottagen"
+}
